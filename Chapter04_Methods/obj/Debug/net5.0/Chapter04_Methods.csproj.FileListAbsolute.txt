@@ -1,0 +1,16 @@
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.exe
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.deps.json
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.runtimeconfig.json
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.runtimeconfig.dev.json
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.dll
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\bin\Debug\net5.0\Chapter04_Methods.pdb
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.csproj.AssemblyReference.cache
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.AssemblyInfoInputs.cache
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.AssemblyInfo.cs
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.csproj.CoreCompileInputs.cache
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.dll
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\refint\Chapter04_Methods.dll
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.pdb
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\Chapter04_Methods.genruntimeconfig.cache
+E:\Local Repositories\C#\CSharp_Masterclass\Chapter04_Methods\obj\Debug\net5.0\ref\Chapter04_Methods.dll
